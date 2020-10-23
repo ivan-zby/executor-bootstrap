@@ -17,6 +17,4 @@ FIXTURE(ExecutorTest) {
 		ASSERT_EQ(0, executor_get_id());
 		MCL_SUCC("TEST SUCCESS!");
 	}
-
-
 };
